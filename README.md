@@ -207,7 +207,7 @@ Advanced statistical analysis includes:
 
 ## 📄 Documentation
 
-- **[Full Capstone Report](docs/final_capstone_report.pdf)** - Comprehensive project documentation
+- **[Full Capstone Report](docs/Final_capstone_report.pdf)** - Comprehensive project documentation
 - **Infrastructure Setup** - Detailed AWS configuration guides
 - **SQL Query Reference** - Complete analytics query library
 - **Tableau Connection Guide** - Dashboard setup instructions
