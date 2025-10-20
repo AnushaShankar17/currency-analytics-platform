@@ -1,0 +1,15 @@
+# AWS credentials
+*.csv
+*.json
+*.parquet
+__pycache__/
+*.pyc
+.DS_Store
+# Local IDE files
+.vscode/
+.idea/
+# Log files
+*.log
+# Temporary files
+tmp/
+temp/
