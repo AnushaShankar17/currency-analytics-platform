@@ -30,6 +30,7 @@ This platform automates currency analysis by providing traders, analysts, and po
 ```mermaid
 graph TD
     A[Frankfurter API] --> B[AWS Lambda: Data Ingestion];
+    EB[Amazon EventBridge Scheduler] --> B
     B --> C[S3 Raw Zone];
     C --> D[Glue Crawler];
     D --> E[Glue Data Catalog];
