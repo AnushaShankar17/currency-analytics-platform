@@ -6,8 +6,8 @@ A cloud-native AWS pipeline that transforms raw foreign exchange data into actio
 
 
 [![AWS](https://img.shields.io/badge/AWS-Console-FF9900?logo=amazonaws)](https://aws.amazon.com)
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://python.org)
-[![Tableau](https://img.shields.io/badge/Tableau-Desktop-E97627?logo=tableau)](https://tableau.com)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://python.org/downloads/)
+[![Tableau](https://img.shields.io/badge/Tableau-Desktop-E97627?logo=tableau)](https://www.tableau.com/support/releases/desktop/2025.2)
 
 ## 📊 Live Dashboard
 
